@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 022252110780d114f93a75c93aed5556
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - circlePrefab: {fileID: 2141903956224322660, guid: 67df60c36131dd0498edf023ee71d20e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

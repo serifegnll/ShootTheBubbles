@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3e3b97cede9578f48b74fe08aa8da8ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trianglePrefab: {fileID: 6868874699712193114, guid: 6628d764db2c02a4ea77af2cff72ba96, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
